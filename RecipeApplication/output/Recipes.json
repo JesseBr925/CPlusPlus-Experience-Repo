@@ -1,0 +1,12 @@
+[
+    {
+        "directions": "Add Cereal to a bowl, pour milk over cereal.",
+        "ingredients": "Milk, Cereal",
+        "name": "Cereal"
+    },
+    {
+        "directions": "Put bread in toaster, optionally add butter once toaster dings.",
+        "ingredients": "Bread, (butter optional)",
+        "name": "Toast"
+    }
+]

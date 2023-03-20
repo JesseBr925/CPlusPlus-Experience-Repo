@@ -98,5 +98,9 @@ int main() {
 
     outputRecipesToFile(recipes);
 
+    std::cout << "Press any key and hit enter to exit.";
+    std::string exit;
+    std::cin >> exit;
+    
     return 0;
 }
